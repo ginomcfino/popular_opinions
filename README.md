@@ -1,4 +1,4 @@
-# unpopular_opinions
+# Un(Popular) Opinions
 
 What's right and what's wrong, when it just came out of a thought? 
 
